@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Manning",
+    "age": 41,
+    "address": {
+        "street": "Grant Rapids",
+        "city": "Lake Michelleport",
+        "state": "New Jersey",
+        "zip": "99887"
+    },
+    "contact": {
+        "phone": "001-394-413-3408x297",
+        "servicePhone": "800912132"
+    },
+    "birthday": "1984-05-03",
+    "ip": "162.80.9.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep idea stand floor. Star country give effect.\nListen argue own shoulder hear energy college. Child ready set language.\nDevelop try treat among school heart rather. Yard late believe either.",
+        "bio": "Small those hold issue experience role on. Kitchen company then medical manager certain seven. Here interview near anything."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
