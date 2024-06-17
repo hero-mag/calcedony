@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Pierce",
+    "age": 23,
+    "address": {
+        "street": "Brandon Cliffs",
+        "city": "Daniellemouth",
+        "state": "Indiana",
+        "zip": "29591"
+    },
+    "contact": {
+        "phone": "(880)632-8268",
+        "servicePhone": "800057978"
+    },
+    "birthday": "2002-28-06",
+    "ip": "40.58.223.36",
+    "foo": "bar",
+    "profile": {
+        "about": "American show chair poor today. Issue within seat while family.",
+        "bio": "Dream fall if expect Democrat. Before oil especially share.\nGoal special arrive hit yourself. Middle state federal decade. Develop election coach class plant point."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
