@@ -1,0 +1,25 @@
+{
+    "name": "Gina Burke",
+    "age": 13,
+    "address": {
+        "street": "Kyle Ranch",
+        "city": "New Alextown",
+        "state": "Missouri",
+        "zip": "47635"
+    },
+    "contact": {
+        "phone": "(803)699-0320x445",
+        "servicePhone": "800730758"
+    },
+    "birthday": "2012-01-02",
+    "ip": "166.147.195.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Family woman avoid such catch two. Window buy investment. Tax training less would especially computer.",
+        "bio": "Live quite letter kid drive agree. Media they military officer pressure.\nCondition red sing us front budget politics. Series course actually material. Than between catch."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
