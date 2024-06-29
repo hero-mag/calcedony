@@ -1,0 +1,25 @@
+{
+    "name": "Diana Davis",
+    "age": 99,
+    "address": {
+        "street": "Danielle Stravenue",
+        "city": "Jessicahaven",
+        "state": "Indiana",
+        "zip": "87273"
+    },
+    "contact": {
+        "phone": "252-557-4093",
+        "servicePhone": "800989353"
+    },
+    "birthday": "1926-11-02",
+    "ip": "39.19.64.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Those quality idea together. Understand effect use letter laugh.\nTruth science theory hope news. Way one claim loss include. Amount specific act yes continue stay work.",
+        "bio": "Wife may know strong modern. Story each operation actually happen include matter company. Various everyone range account usually race."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
