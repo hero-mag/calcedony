@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Brown",
+    "age": 17,
+    "address": {
+        "street": "Berg Lights",
+        "city": "North Douglasmouth",
+        "state": "Kansas",
+        "zip": "44938"
+    },
+    "contact": {
+        "phone": "(221)723-5078",
+        "servicePhone": "800809139"
+    },
+    "birthday": "2008-23-06",
+    "ip": "213.56.0.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Again require market relate share word other. Out figure camera long sure marriage yourself.",
+        "bio": "Peace pick consumer note day. Response star family situation age. Another continue president career throughout sister through speech."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
