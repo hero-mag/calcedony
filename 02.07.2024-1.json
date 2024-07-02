@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Carter",
+    "age": 75,
+    "address": {
+        "street": "April Landing",
+        "city": "East Amber",
+        "state": "Minnesota",
+        "zip": "42847"
+    },
+    "contact": {
+        "phone": "+1-548-723-0861x44631",
+        "servicePhone": "800009256"
+    },
+    "birthday": "1950-05-07",
+    "ip": "210.219.5.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Before sit stay. Soon business off live forward forget.",
+        "bio": "Above eight executive suggest card trial east. Total edge field science your medical.\nInterview safe walk walk cold. Our site behavior effect according quite near forward."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
