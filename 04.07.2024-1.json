@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Cooper",
+    "age": 46,
+    "address": {
+        "street": "Duffy Row",
+        "city": "Sanchezfurt",
+        "state": "Kentucky",
+        "zip": "70432"
+    },
+    "contact": {
+        "phone": "001-509-783-0376x84265",
+        "servicePhone": "800283268"
+    },
+    "birthday": "1979-01-06",
+    "ip": "52.11.87.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Agreement senior up police plant. Start yes through view industry if likely. Authority size daughter show.",
+        "bio": "Recognize pull against fill. Far deal program small staff speech guy. Myself certain analysis home book.\nAllow green test ask. Human edge beautiful hear day mean. Mrs add machine admit return."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
