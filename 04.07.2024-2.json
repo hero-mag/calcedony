@@ -1,0 +1,25 @@
+{
+    "name": "Yvonne Rivera",
+    "age": 50,
+    "address": {
+        "street": "Smith Vista",
+        "city": "New Keith",
+        "state": "New Hampshire",
+        "zip": "54926"
+    },
+    "contact": {
+        "phone": "(839)731-3641x1937",
+        "servicePhone": "800902460"
+    },
+    "birthday": "1975-26-01",
+    "ip": "147.13.76.148",
+    "foo": "bar",
+    "profile": {
+        "about": "She agreement others. Sound morning dream try.\nTrade bar increase decision ground natural. Any mean we long.\nTheory adult doctor few couple start free model. Tend seven character no box thus.",
+        "bio": "Machine new bar especially would continue. Write life discuss picture answer remain.\nWalk simple call. Ever kid course draw night citizen so."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
