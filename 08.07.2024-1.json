@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Chan",
+    "age": 36,
+    "address": {
+        "street": "Smith Knoll",
+        "city": "Dominiqueburgh",
+        "state": "Michigan",
+        "zip": "02255"
+    },
+    "contact": {
+        "phone": "001-773-366-2891x743",
+        "servicePhone": "800919019"
+    },
+    "birthday": "1989-25-10",
+    "ip": "61.129.142.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire machine court least my book doctor. Example exactly pull bad population provide.",
+        "bio": "Believe wide me provide population. Degree senior across evidence also man.\nThan beyond loss character friend question. Design body skill management key."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
