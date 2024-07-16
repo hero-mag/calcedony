@@ -1,0 +1,25 @@
+{
+    "name": "Ronnie Hayes",
+    "age": 36,
+    "address": {
+        "street": "Tiffany Key",
+        "city": "Lake Daniellestad",
+        "state": "Tennessee",
+        "zip": "84414"
+    },
+    "contact": {
+        "phone": "636.749.4860x566",
+        "servicePhone": "800707166"
+    },
+    "birthday": "1989-27-03",
+    "ip": "151.205.127.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Do good several current. Democratic pick coach old.\nWould safe marriage instead law. Image about environment.",
+        "bio": "Indeed baby public people I soldier toward exist. Professional price play process American minute game.\nYes attack about help. Party security take law. Inside wind education then."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
