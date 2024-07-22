@@ -1,0 +1,25 @@
+{
+    "name": "David Martin",
+    "age": 88,
+    "address": {
+        "street": "Veronica Common",
+        "city": "Kathyport",
+        "state": "Montana",
+        "zip": "25057"
+    },
+    "contact": {
+        "phone": "001-657-713-3452x37510",
+        "servicePhone": "800051147"
+    },
+    "birthday": "1937-04-03",
+    "ip": "217.41.10.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Action perhaps provide top difficult scene. There skin generation material red race. Page remember one doctor attack data.",
+        "bio": "Both mean clearly someone stage buy task song. Take three number old. Break item chair voice pattern."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
