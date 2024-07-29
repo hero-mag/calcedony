@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Burke",
+    "age": 65,
+    "address": {
+        "street": "Mark Trail",
+        "city": "Zimmermanhaven",
+        "state": "Arizona",
+        "zip": "20994"
+    },
+    "contact": {
+        "phone": "001-726-723-3726",
+        "servicePhone": "800874904"
+    },
+    "birthday": "1960-03-09",
+    "ip": "136.248.17.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Different generation short affect admit radio coach. Long thus oil.\nPay ball million do worker laugh. Any agreement too president control. Begin production station prevent form interview.",
+        "bio": "Street film compare choose. Point plant true. Until organization nation.\nCard late evidence eye tonight. Picture avoid speech professional say investment."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
