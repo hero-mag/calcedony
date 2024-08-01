@@ -1,0 +1,25 @@
+{
+    "name": "Angela Walter",
+    "age": 116,
+    "address": {
+        "street": "Tracy Fork",
+        "city": "West Joshua",
+        "state": "Wisconsin",
+        "zip": "79606"
+    },
+    "contact": {
+        "phone": "5404477220",
+        "servicePhone": "800956030"
+    },
+    "birthday": "1909-14-05",
+    "ip": "130.61.77.227",
+    "foo": "bar",
+    "profile": {
+        "about": "If goal dinner fine capital. Provide they production however expect we.\nEasy politics half early. Improve happy church. Someone action five professional pay process.",
+        "bio": "Easy their training claim at force here make. Order like late popular gas worker fund. Imagine such difference such pass at security."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
