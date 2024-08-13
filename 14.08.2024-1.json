@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Sharp",
+    "age": 4,
+    "address": {
+        "street": "Casey Causeway",
+        "city": "East Davidburgh",
+        "state": "Vermont",
+        "zip": "28549"
+    },
+    "contact": {
+        "phone": "5918023037",
+        "servicePhone": "800512867"
+    },
+    "birthday": "2021-14-03",
+    "ip": "82.125.189.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect street pull effect create each. Low research religious pull tell fear. Above field president impact threat behind.\nWould pull learn eye these specific.",
+        "bio": "Citizen story not race north subject everyone really.\nNearly first decision. Improve watch car program agree."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
