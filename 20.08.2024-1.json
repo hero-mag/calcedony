@@ -1,0 +1,25 @@
+{
+    "name": "Brian Nelson",
+    "age": 75,
+    "address": {
+        "street": "Karen Drives",
+        "city": "Chavezberg",
+        "state": "Arizona",
+        "zip": "04579"
+    },
+    "contact": {
+        "phone": "6318763235",
+        "servicePhone": "800176523"
+    },
+    "birthday": "1950-27-11",
+    "ip": "134.13.195.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager own wind name time. Visit over side trade of must. Five key exactly yet baby able oil.",
+        "bio": "Strategy real free serve enough us. Between skill deal her my treatment main. Town be budget heavy.\nIndeed pass customer international even person. Kid main rather sing window man kid."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
