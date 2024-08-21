@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Osborne",
+    "age": 38,
+    "address": {
+        "street": "Gonzales Flat",
+        "city": "West Marco",
+        "state": "Arizona",
+        "zip": "23613"
+    },
+    "contact": {
+        "phone": "(710)342-6474",
+        "servicePhone": "800712481"
+    },
+    "birthday": "1987-02-12",
+    "ip": "83.7.10.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Player involve any officer civil floor. Work task for never night land couple note. Three factor understand least break.",
+        "bio": "Ability thing foot hand necessary loss town cultural. Happen oil foreign avoid. Leg grow rock east.\nSuddenly star cause training well decision toward."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
