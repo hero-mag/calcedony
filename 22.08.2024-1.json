@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Peterson",
+    "age": 32,
+    "address": {
+        "street": "Erin Shores",
+        "city": "New Chad",
+        "state": "New York",
+        "zip": "96983"
+    },
+    "contact": {
+        "phone": "212-249-8641",
+        "servicePhone": "800180814"
+    },
+    "birthday": "1993-04-11",
+    "ip": "60.197.132.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge morning standard wide rise level else. Best value light. Ten finish kind indeed call consumer.\nSubject book nothing you keep. Reduce matter near government staff generation.",
+        "bio": "Very avoid charge claim.\nElse community suggest trade federal house have. Soon civil assume while. Book itself receive range catch life performance."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
