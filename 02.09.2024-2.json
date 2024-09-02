@@ -1,0 +1,25 @@
+{
+    "name": "Robert Cunningham",
+    "age": 41,
+    "address": {
+        "street": "Kayla Ford",
+        "city": "Youngtown",
+        "state": "Michigan",
+        "zip": "77551"
+    },
+    "contact": {
+        "phone": "840.617.9042x7749",
+        "servicePhone": "800721490"
+    },
+    "birthday": "1984-13-10",
+    "ip": "180.62.213.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote technology assume bit kid watch figure. These maintain subject everyone citizen. Recognize couple movie shake exist participant president.",
+        "bio": "American school before hit. Evening social vote event message decision.\nWhose test health year baby lead address eight. Mention let give against."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
