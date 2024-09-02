@@ -1,0 +1,25 @@
+{
+    "name": "Amy Brown",
+    "age": 17,
+    "address": {
+        "street": "Donna Rest",
+        "city": "Pricechester",
+        "state": "Kentucky",
+        "zip": "09767"
+    },
+    "contact": {
+        "phone": "+1-498-846-8794x356",
+        "servicePhone": "800399008"
+    },
+    "birthday": "2008-22-02",
+    "ip": "192.19.79.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside teach short whose no. Score think seek.",
+        "bio": "Must type chair who while television. Former radio suffer life whether meeting more.\nDiscover more of miss share. Everyone behavior relate whom hundred."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
