@@ -1,0 +1,25 @@
+{
+    "name": "David Hart",
+    "age": 12,
+    "address": {
+        "street": "Carlos Brook",
+        "city": "South Dominiqueland",
+        "state": "South Dakota",
+        "zip": "11129"
+    },
+    "contact": {
+        "phone": "(713)814-4377x14539",
+        "servicePhone": "800888052"
+    },
+    "birthday": "2013-07-06",
+    "ip": "10.191.117.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Police region enter federal. Until herself same summer both election allow. Threat leg law local. Leave for traditional radio.",
+        "bio": "Know authority actually energy less. Team than interest lead moment. Foot third through quality us."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
