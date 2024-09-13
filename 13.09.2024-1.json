@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Lin",
+    "age": 42,
+    "address": {
+        "street": "Perez Brook",
+        "city": "Cherylview",
+        "state": "Utah",
+        "zip": "31947"
+    },
+    "contact": {
+        "phone": "550-542-3430",
+        "servicePhone": "800819156"
+    },
+    "birthday": "1983-01-09",
+    "ip": "187.9.221.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Without leader early economy want network. Director senior list fight any stand.\nBack east history house budget position. Forget per real risk artist media customer. Value up born common various.",
+        "bio": "Huge sense those long painting later. Remember professional act help unit design.\nBag enough rest heavy try. Tough visit glass his book. You few measure support teacher."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
