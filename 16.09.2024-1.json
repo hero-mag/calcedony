@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Douglas",
+    "age": 110,
+    "address": {
+        "street": "Marsh Crossroad",
+        "city": "Perryborough",
+        "state": "Louisiana",
+        "zip": "47905"
+    },
+    "contact": {
+        "phone": "(601)603-9681x45468",
+        "servicePhone": "800741283"
+    },
+    "birthday": "1915-19-05",
+    "ip": "123.27.148.22",
+    "foo": "bar",
+    "profile": {
+        "about": "High might bring seek product nor. Become thousand organization anyone city myself control.",
+        "bio": "Pressure against surface trial. Dinner present heart onto current. Adult away appear worry. Again lawyer ground piece go foot run manager."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
