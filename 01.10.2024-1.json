@@ -1,0 +1,25 @@
+{
+    "name": "James Sutton",
+    "age": 18,
+    "address": {
+        "street": "Sarah Crossroad",
+        "city": "New Morganland",
+        "state": "South Carolina",
+        "zip": "38572"
+    },
+    "contact": {
+        "phone": "977-210-0905x61076",
+        "servicePhone": "800513616"
+    },
+    "birthday": "2007-09-08",
+    "ip": "95.104.42.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary attack former question dog deal. While yard board her. Candidate skill traditional pretty sense everybody.\nIssue hotel land enough pressure room general.",
+        "bio": "Care reduce enjoy writer southern act. Goal road behavior party home.\nEverybody wonder public sit different product reach."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
