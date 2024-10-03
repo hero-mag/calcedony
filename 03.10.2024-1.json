@@ -1,0 +1,25 @@
+{
+    "name": "Diana Moody",
+    "age": 38,
+    "address": {
+        "street": "Davidson Run",
+        "city": "Port Cynthiaton",
+        "state": "Maine",
+        "zip": "98152"
+    },
+    "contact": {
+        "phone": "607.593.4794",
+        "servicePhone": "800979748"
+    },
+    "birthday": "1987-09-03",
+    "ip": "220.77.41.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever run exist baby wrong box suggest. Authority bag movement enough arrive. Back with true report that technology sister.",
+        "bio": "Color garden number light edge. Treatment eight research certain.\nDinner have speak top recent behind. Left none woman fire woman myself."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
