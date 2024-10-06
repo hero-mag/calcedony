@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Wise",
+    "age": 102,
+    "address": {
+        "street": "Franklin Streets",
+        "city": "Bensonfort",
+        "state": "Pennsylvania",
+        "zip": "71488"
+    },
+    "contact": {
+        "phone": "816-822-5302",
+        "servicePhone": "800937808"
+    },
+    "birthday": "1923-17-10",
+    "ip": "79.6.62.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight stock citizen all commercial generation. Behind challenge front three. Heavy often hotel. Left no support cell.",
+        "bio": "Go receive meeting down lawyer entire family. Month which trial go laugh.\nFront land official very focus ok threat. His provide detail personal more entire."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
