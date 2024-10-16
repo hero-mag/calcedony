@@ -1,0 +1,25 @@
+{
+    "name": "Laura Sherman",
+    "age": 11,
+    "address": {
+        "street": "Jacqueline Villages",
+        "city": "Jamesbury",
+        "state": "Alabama",
+        "zip": "54605"
+    },
+    "contact": {
+        "phone": "406-359-2835",
+        "servicePhone": "800234392"
+    },
+    "birthday": "2014-02-02",
+    "ip": "180.83.131.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Role movement government five charge specific line. Study street world interview receive might. Which must collection movie.",
+        "bio": "Adult hold huge might I energy.\nInformation industry debate play key. Leg poor president among environmental talk decision."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
