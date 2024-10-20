@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Lewis",
+    "age": 94,
+    "address": {
+        "street": "Anthony Estate",
+        "city": "Deborahside",
+        "state": "Arizona",
+        "zip": "34671"
+    },
+    "contact": {
+        "phone": "660.865.6542x9805",
+        "servicePhone": "800893682"
+    },
+    "birthday": "1931-07-05",
+    "ip": "6.46.81.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand you peace evidence. According physical western sometimes drive.\nBank conference organization cultural point after glass. Heavy box arm join write.",
+        "bio": "Land without enjoy. Choice air pattern fact while it decision.\nBuy buy interest general do often. Every return central scene."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
