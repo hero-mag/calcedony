@@ -1,0 +1,25 @@
+{
+    "name": "Megan Gray",
+    "age": 107,
+    "address": {
+        "street": "Romero Fords",
+        "city": "Conniehaven",
+        "state": "New Jersey",
+        "zip": "01334"
+    },
+    "contact": {
+        "phone": "7872685011",
+        "servicePhone": "800426999"
+    },
+    "birthday": "1918-17-02",
+    "ip": "45.246.49.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Never present carry pressure huge decade. Black glass daughter foreign as. Seat allow country like change as movement.",
+        "bio": "Stuff political staff government. Because expect hear executive computer. Point impact miss ten.\nGarden media personal person campaign appear television happy. Lose chance chair."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
