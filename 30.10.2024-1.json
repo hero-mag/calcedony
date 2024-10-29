@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Thomas",
+    "age": 43,
+    "address": {
+        "street": "Blake Lights",
+        "city": "South Micheleland",
+        "state": "Kentucky",
+        "zip": "67699"
+    },
+    "contact": {
+        "phone": "324.908.1813",
+        "servicePhone": "800881881"
+    },
+    "birthday": "1982-17-05",
+    "ip": "20.231.131.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Kid production then painting start. Environment up according forward step society particularly.\nRun arrive serve year organization media. Within reveal character strategy build shake young.",
+        "bio": "Language professional remember region voice. Industry sister really Congress others. Behavior country detail culture."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
