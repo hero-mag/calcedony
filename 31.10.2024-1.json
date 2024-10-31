@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Woods",
+    "age": 112,
+    "address": {
+        "street": "Wright Vista",
+        "city": "Ronaldhaven",
+        "state": "Kentucky",
+        "zip": "13713"
+    },
+    "contact": {
+        "phone": "(845)959-7794x2790",
+        "servicePhone": "800087727"
+    },
+    "birthday": "1913-12-11",
+    "ip": "41.233.109.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Set base still effect camera near. Glass must it. Nothing fall poor but modern. Them budget wind firm.\nOver fine really type.",
+        "bio": "Garden too contain wide join he idea. Keep also few career action knowledge. General particular result school current once become federal. Guy authority key enter drop.\nGood water second owner some."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
