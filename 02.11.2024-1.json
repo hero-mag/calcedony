@@ -1,0 +1,25 @@
+{
+    "name": "Terry Sosa",
+    "age": 90,
+    "address": {
+        "street": "Gregory Wall",
+        "city": "Wolftown",
+        "state": "Michigan",
+        "zip": "37387"
+    },
+    "contact": {
+        "phone": "001-624-390-0415x319",
+        "servicePhone": "800407087"
+    },
+    "birthday": "1935-08-03",
+    "ip": "206.207.34.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure method left cover method example spring. Drop adult practice eight action century. Surface dinner store dream. Interesting truth water draw probably their.",
+        "bio": "Back future give close ready. Always production dark she lead your way. Of account draw air center. Point if two least must director."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
