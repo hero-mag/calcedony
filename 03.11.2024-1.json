@@ -1,0 +1,25 @@
+{
+    "name": "Christine Stone",
+    "age": 70,
+    "address": {
+        "street": "Melton Fall",
+        "city": "Jacobtown",
+        "state": "Wisconsin",
+        "zip": "34762"
+    },
+    "contact": {
+        "phone": "+1-620-506-2969",
+        "servicePhone": "800304463"
+    },
+    "birthday": "1955-30-07",
+    "ip": "94.95.111.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Third seek within man responsibility. Reduce onto past specific garden accept success professor. Style away Democrat enter area second data.",
+        "bio": "Environment learn true toward. Church quite and including interest play water pay.\nReality word speak nor. Value partner writer probably watch hospital peace. Movie cause relate different."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
