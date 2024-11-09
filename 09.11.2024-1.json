@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Robbins",
+    "age": 30,
+    "address": {
+        "street": "Davis Stream",
+        "city": "Lake Brittany",
+        "state": "Washington",
+        "zip": "45014"
+    },
+    "contact": {
+        "phone": "785.794.5319x5982",
+        "servicePhone": "800303255"
+    },
+    "birthday": "1995-11-12",
+    "ip": "187.70.115.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag opportunity allow compare speech father assume central.\nCustomer personal center medical. Positive case wall sense rule. Meet act yeah suddenly.",
+        "bio": "Hand that science. Assume everybody draw check series agency assume. Point serve black.\nBeyond relationship meeting short rate."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
