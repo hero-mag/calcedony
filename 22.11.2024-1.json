@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Butler",
+    "age": 65,
+    "address": {
+        "street": "Gonzalez Union",
+        "city": "Blackborough",
+        "state": "Oregon",
+        "zip": "69354"
+    },
+    "contact": {
+        "phone": "833-948-4357",
+        "servicePhone": "800152188"
+    },
+    "birthday": "1960-09-09",
+    "ip": "168.222.22.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit information issue today few six. Court data say firm.\nMiss blood contain play. Wait network raise read bit person its degree.\nThousand good expect character nothing health under.",
+        "bio": "Later parent between relationship break turn white treatment. Receive hope meeting return friend company."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
