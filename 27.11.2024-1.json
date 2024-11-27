@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Conrad",
+    "age": 22,
+    "address": {
+        "street": "Erika Hills",
+        "city": "Turnerland",
+        "state": "Oregon",
+        "zip": "67083"
+    },
+    "contact": {
+        "phone": "(535)838-9975x054",
+        "servicePhone": "800991593"
+    },
+    "birthday": "2003-15-06",
+    "ip": "95.158.150.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet write outside.\nWin usually picture share woman commercial. Treat network participant.",
+        "bio": "Final age arrive author. Provide history knowledge education adult watch can day.\nKnow drop plan. Whatever country increase board laugh prevent player."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
