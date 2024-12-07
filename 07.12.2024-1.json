@@ -1,0 +1,25 @@
+{
+    "name": "Carla Torres",
+    "age": 43,
+    "address": {
+        "street": "Daniel Squares",
+        "city": "New Lynn",
+        "state": "Maryland",
+        "zip": "92758"
+    },
+    "contact": {
+        "phone": "912.822.1396x168",
+        "servicePhone": "800123613"
+    },
+    "birthday": "1982-23-06",
+    "ip": "168.121.5.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog or instead form citizen. Air speak many especially. Door wife establish who Mr thousand pass.\nImprove into order hotel enter. Stage simple share to guy.",
+        "bio": "Believe situation trial election. Wish trade term subject need issue.\nSeries despite mind protect. Sport mind suddenly national business receive could. Main win nice mouth doctor order."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
