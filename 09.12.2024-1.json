@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Reed",
+    "age": 55,
+    "address": {
+        "street": "Alex Extensions",
+        "city": "Contrerasville",
+        "state": "Virginia",
+        "zip": "13096"
+    },
+    "contact": {
+        "phone": "+1-707-366-8652x495",
+        "servicePhone": "800872975"
+    },
+    "birthday": "1970-24-01",
+    "ip": "117.233.229.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock forget lay possible. Speech late tree often policy feel black. Beat expect decide mention each left. Parent before must but rest.",
+        "bio": "Name color measure middle rule some. Town indicate tree question. Study policy not night follow cost hair buy."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
