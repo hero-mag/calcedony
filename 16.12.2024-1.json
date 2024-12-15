@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Hill",
+    "age": 96,
+    "address": {
+        "street": "Henderson Lock",
+        "city": "West Kaitlyn",
+        "state": "Michigan",
+        "zip": "76921"
+    },
+    "contact": {
+        "phone": "(364)912-6084x671",
+        "servicePhone": "800908090"
+    },
+    "birthday": "1929-14-04",
+    "ip": "94.104.63.219",
+    "foo": "bar",
+    "profile": {
+        "about": "That yes write scene piece travel before. Commercial evening admit late project in. Run civil pattern blue.",
+        "bio": "Reflect answer enter everything simple ago number. Evidence fear economy better fish effort. Hard car something run have."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
