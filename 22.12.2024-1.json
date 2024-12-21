@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Hull",
+    "age": 85,
+    "address": {
+        "street": "Anthony Ports",
+        "city": "Lake Taylormouth",
+        "state": "Oregon",
+        "zip": "63718"
+    },
+    "contact": {
+        "phone": "001-767-685-7771x62739",
+        "servicePhone": "800600575"
+    },
+    "birthday": "1940-31-10",
+    "ip": "156.65.76.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Peace admit meeting tonight sometimes writer. Field catch rule marriage much. Effort walk pick building.\nOperation skin beat human. Tell just particular new he interesting.",
+        "bio": "Summer fight beyond next agree cell. Southern decision group expert always main. Student role teacher trade civil crime politics."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
