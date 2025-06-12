@@ -1,0 +1,25 @@
+{
+    "name": "Shelly Rowland",
+    "age": 98,
+    "address": {
+        "street": "Julie Hollow",
+        "city": "New Jeff",
+        "state": "Indiana",
+        "zip": "95999"
+    },
+    "contact": {
+        "phone": "+1-565-660-4940",
+        "servicePhone": "800468745"
+    },
+    "birthday": "1927-20-07",
+    "ip": "50.77.138.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard society them example. Realize production toward may.\nArm market expect though right skill trouble. American increase teacher. Record explain with radio free hard wall.",
+        "bio": "Huge kid for song here local. Wonder early international environment democratic stop analysis every. Again major amount choice evening evening."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
