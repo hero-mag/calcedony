@@ -1,0 +1,25 @@
+{
+    "name": "Richard King",
+    "age": 113,
+    "address": {
+        "street": "Angela Stravenue",
+        "city": "Lake Natasha",
+        "state": "Illinois",
+        "zip": "65223"
+    },
+    "contact": {
+        "phone": "001-524-548-8680x367",
+        "servicePhone": "800799698"
+    },
+    "birthday": "1912-09-09",
+    "ip": "31.19.1.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Describe shake rest benefit military push group traditional. Reduce painting off policy clear happen.\nPurpose type result three right. Region up recent hospital should.",
+        "bio": "Rock expert according part meet other. Politics country various discussion.\nPast performance analysis task couple. Stage spend discover affect."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}

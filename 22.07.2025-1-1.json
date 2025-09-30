@@ -1,0 +1,25 @@
+{
+    "name": "Steven Henry",
+    "age": 54,
+    "address": {
+        "street": "Reed Plains",
+        "city": "West Michael",
+        "state": "Utah",
+        "zip": "81146"
+    },
+    "contact": {
+        "phone": "421.537.0736",
+        "servicePhone": "800773801"
+    },
+    "birthday": "1971-14-11",
+    "ip": "65.48.135.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive mean near note. Foot resource opportunity evidence. Let customer share rest fact nice.\nLeft short fire world reveal whatever adult any. Thing prepare rest.",
+        "bio": "While wall us record. Answer high smile note. White more operation role.\nThey seem learn simply. Term year find sit care can. Group will add."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
