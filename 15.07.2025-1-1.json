@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Tran",
+    "age": 92,
+    "address": {
+        "street": "Boyle Glen",
+        "city": "Rodriguezfort",
+        "state": "Rhode Island",
+        "zip": "24675"
+    },
+    "contact": {
+        "phone": "411.345.1978",
+        "servicePhone": "800651030"
+    },
+    "birthday": "1933-04-05",
+    "ip": "27.80.154.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat friend task population. Tree simple air father amount.",
+        "bio": "Room indeed produce nor. Father about feeling at charge."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
