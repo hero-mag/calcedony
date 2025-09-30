@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Garcia",
+    "age": 30,
+    "address": {
+        "street": "Robin Turnpike",
+        "city": "Leonardport",
+        "state": "Indiana",
+        "zip": "94662"
+    },
+    "contact": {
+        "phone": "(710)911-3837",
+        "servicePhone": "800332808"
+    },
+    "birthday": "1995-11-02",
+    "ip": "190.93.129.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Field follow drop no expect boy season. Bit street remember her. Spring quite maintain I different.",
+        "bio": "Director kid low power wear. Ball network better. Somebody peace soldier month."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
