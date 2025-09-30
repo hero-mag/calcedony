@@ -1,0 +1,25 @@
+{
+    "name": "Eric Ward",
+    "age": 23,
+    "address": {
+        "street": "Decker Plain",
+        "city": "Fowlerstad",
+        "state": "New York",
+        "zip": "59814"
+    },
+    "contact": {
+        "phone": "413-385-7954x576",
+        "servicePhone": "800215873"
+    },
+    "birthday": "2002-08-10",
+    "ip": "104.80.14.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate idea show reflect remain site lay. Information resource full tell nothing. Reveal for several lead.\nPass project others. Accept site room draw camera.",
+        "bio": "I speech address account second range dream. Feel reflect daughter describe candidate not. Study idea wife.\nEvery want protect western. Then glass source executive. Name machine song yet look."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
