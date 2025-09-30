@@ -1,0 +1,25 @@
+{
+    "name": "Terri Gallegos",
+    "age": 23,
+    "address": {
+        "street": "Wagner Trail",
+        "city": "Port Ricardobury",
+        "state": "Kentucky",
+        "zip": "67254"
+    },
+    "contact": {
+        "phone": "905-723-4608",
+        "servicePhone": "800727238"
+    },
+    "birthday": "2002-07-04",
+    "ip": "181.48.67.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior style box each election. Be receive space later television as.\nHour happen place he else since style.\nMarket economy industry factor. Role add real oil. Improve fact ground wonder.",
+        "bio": "Need bar executive open cut. Close forget represent end thought. Tend the employee carry. Focus position sit street maybe season north.\nCould he little reveal. Though consumer there line politics."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
