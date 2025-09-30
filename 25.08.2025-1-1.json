@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas White",
+    "age": 108,
+    "address": {
+        "street": "Jeffrey Ford",
+        "city": "Huntchester",
+        "state": "West Virginia",
+        "zip": "24976"
+    },
+    "contact": {
+        "phone": "(242)402-8328x29027",
+        "servicePhone": "800864606"
+    },
+    "birthday": "1917-23-11",
+    "ip": "26.139.244.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Program trial visit tough interview. Consider thing set feeling. Always practice knowledge safe whose hotel.",
+        "bio": "Court represent top black send have adult. Message role study want space.\nCollege character ask best executive push happy. Get account rule side."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
